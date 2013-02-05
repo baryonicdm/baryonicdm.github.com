@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://baryonicdm.github.com/sitemap.xml 
